@@ -1,5 +1,6 @@
 .video__iframes {
   margin: 0 auto;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
   width: fit-content;
 }
-
