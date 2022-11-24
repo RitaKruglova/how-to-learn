@@ -4,12 +4,4 @@
   font-weight: normal;
   text-decoration: none;
   color: white;
-  opacity: 1;
-}
-
-.footer__column-link:hover {
-  opacity: 0.6;
-  -webkit-transition: opacity linear;
-  -o-transition: opacity linear;
-  transition: opacity linear;
 }
