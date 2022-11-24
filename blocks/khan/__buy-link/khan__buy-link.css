@@ -3,12 +3,9 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
-  opacity: 1;
+  text-decoration: none;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
 }
 
-.khan__buy-link:hover {
-  opacity: 0.6;
-  -webkit-transition: opacity linear;
-  -o-transition: opacity linear;
-  transition: opacity linear;
-}
+
